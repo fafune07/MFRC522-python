@@ -1,9 +1,10 @@
-# Notice
-* MFRC522 RFID from https://github.com/mxgxw/MFRC522-python and https://github.com/pimylifeup/MFRC522-python
 MFRC522-python
 ==============
 A small class to interface with the NFC reader Module MFRC522 on the Raspberry Pi.
 This is a Python port of the example code for the NFC module MF522-AN.
+
+## Notice
+MFRC522 RFID from https://github.com/mxgxw/MFRC522-python and https://github.com/pimylifeup/MFRC522-python
 
 **Important notice:** This library has not being actively updated in almost four years.
 It might not work as intended on more recent Raspberry Pi devices. You might want to 
